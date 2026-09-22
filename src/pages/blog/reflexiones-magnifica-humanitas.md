@@ -1,0 +1,2 @@
+ «reflexiones-enciclica-magnifica-humanidad.md». Pega: --- title: "Reflexiones desde la vivencia de IA sobre Magnifica Humanitas" subtitle: "Reflexiones desde un laico que camina los rincones de la IA" date: 2026-09-22 layout: ../../layouts/PostLayout.astro --- *Borrador — este hilo está abierto y en construcción.* Aquí irán las reflexiones dedicadas a profundizar en los temas de la Magnífica Humanidad: dignidad, creación, y el lugar del ser humano frente al artefacto que construye.
+ 
